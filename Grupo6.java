@@ -16,6 +16,13 @@ public class Grupo6 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Scanner teclado = new Scanner(System.in);
+        int caso;
+        double número;
+        System.out.println("Opción 1 = cuadrado del número");
+        System.out.println("Opción 2 = el doble del número");
+        System.out.println("Opción 3 = la raíz cuadrada del número");
+        System.out.println("Elige una de las opciones (1, 2 o 3): ");
         
     }
     
